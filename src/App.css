@@ -38,3 +38,9 @@
     transform: rotate(360deg);
   }
 }
+
+.botonera{
+  background-color: yellowgreen;
+  display: flex;
+  gap: 8px;
+}
